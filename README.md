@@ -20,4 +20,4 @@ The report write while practice
 
 ##Template
 
-[The template](./image/vDOoJGhdQEuM5sHFvmO5WQ_f586ec3c5da647bda52958e043a14df1_The-Exemplar-Explained---Cybersecurity-Incident-Report_-Network-Traffic-Analysis-.docx)
+[The template](./image/template.docx)
