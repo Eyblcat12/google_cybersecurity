@@ -20,4 +20,4 @@ The report write while practice
 
 ##Template
 
-[The template](./image/template.docx)
+[The template](./template.docx)
